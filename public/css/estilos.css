@@ -1,0 +1,8 @@
+.usuario{
+    background-color: rgb(200,100, 200, 0.3);;
+}
+#card_container {
+    padding: 15px;
+    background-color: rgb(255, 255, 255, 0.1);
+    box-shadow: 5px bisque;
+  }
